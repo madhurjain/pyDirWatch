@@ -1,0 +1,17 @@
+=== for windows ====
+http://docs.python.org/library/os.html
+http://ubuntuforums.org/showthread.php?t=663950
+http://tgolden.sc.sabren.com/python/win32_how_do_i/watch_directory_for_changes.html
+
+=== pyinotify for linux ====
+http://trac.dbzteam.org/pyinotify/wiki/Tutorial
+http://trac.dbzteam.org/pyinotify/pyinotify-api/pyinotify.EventsCodes-class.html
+http://pyinotify.sourceforge.net/doc-v07/private/pyinotify.WatchManager-class.html
+
+
+==== sqlite3 ====
+http://docs.python.org/library/sqlite3.html
+
+
+==== MAC FS Stream NOT USED ====
+http://developer.apple.com/mac/library/documentation/Darwin/Conceptual/FSEvents_ProgGuide/UsingtheFSEventsFramework/UsingtheFSEventsFramework.html#//apple_ref/doc/uid/TP40005289-CH4-SW4

@@ -1,0 +1,3 @@
+Multi-platform directory Watcher in Python.
+Logs the change in directory being monitored to SQLite Database File.
+This is my first ever python code written for a friend's university capstone project.
